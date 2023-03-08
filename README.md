@@ -8,9 +8,9 @@ Grâce à ce patch, vous pourrez vivre l'aventure captivante de Fata Morgana dan
 Le jeu peut être obtenu ici, ils semblent accepter les cartes occidentales (du moins ils ont accepté la mienne) tant que vous avez une adresse IP japonaise (vous pouvez utiliser un VPN). S'il vous plaît, achetez-le pour soutenir Novectacle. De même, veuillez acheter la version officielle HD localisée (sur PS4 ou PS Vita).
 
 ## Installation
-Téléchargez la dernière version.
+1.Téléchargez la dernière version.
 
-Décompressez son contenu à la racine du dossier d'installation de The House in Fata Morgana Remastered et acceptez de remplacer les fichiers existants lorsqu'on vous le demande.
+2.Décompressez son contenu à la racine du dossier d'installation de The House in Fata Morgana Remastered et acceptez de remplacer les fichiers existants lorsqu'on vous le demande.
 
 Le jeu devrait maintenant être entièrement en francais. Vous pouvez changer la langue entre le japonais et le francais dans les paramètres à partir du menu principal.
 
