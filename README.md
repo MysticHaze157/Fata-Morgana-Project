@@ -14,4 +14,5 @@ Le jeu devrait maintenant être entièrement en francais. Vous pouvez changer la
 
 ## Credits
 Patch english : @evangelos-ch
+
 Traduction française : @Samia et Robin Margogne
