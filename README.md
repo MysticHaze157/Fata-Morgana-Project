@@ -5,15 +5,15 @@ Everything in the game including scripts, images and menus is translated based o
 
 The game can be obtained here, they seem to accept western cards (or at least they did mine) so long as you have a Japanese IP (you can use a VPN). Please buy it to support Novectacle. Likewise please buy the official HD localized version (PS4 or PS Vita).
 
-# Install
+## Install
 Download the latest Release.
 Unzip its contents into the root of the install directory for The House in Fata Morgana Remastered and accept to overwrite existing files when asked.
 The game should now be fully in English. You can change the language between Japanese and English in the Config from the main menu.
 
-# Credits
+## Credits
 Translation (of a single image and 2 menu items...): @RainAnnen
 Image Editing: @vimiani
 Hacking: @RainAnnen, @TheZombieKiller
 Special thanks: @alyinghood, @MrComputerRevo
-# Disclaimer
+## Disclaimer
 I do not own any of the assets in the release archive outside of the ones that appear in this repository.
