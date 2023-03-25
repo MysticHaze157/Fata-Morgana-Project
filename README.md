@@ -1,5 +1,6 @@
 # The House In Fata Morgana Remastered-FR
 ![alt text](https://raw.githubusercontent.com/MysticHaze157/fata-morgana-remastered-french/main/Accueil.jpg)
+
 Le patch en français pour The House in Fata Morgana Remastered est basé sur le patch anglais réalisé par Evangelos-ch ainsi que la version française de Fata Morgana disponible sur Steam.
 
 Le patch offre une traduction fidèle et de qualité, permettant aux joueurs francophones de profiter pleinement de l'histoire poignante et émouvante de ce visual novel acclamé. Les textes, dialogues et descriptions ont été soigneusement traduits et adaptés pour une expérience de jeu optimale.
