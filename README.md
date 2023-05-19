@@ -9,6 +9,8 @@ S'il vous plaît, achetez The House in Fata Morgana Dreams of the Revenant Editi
 En achetant ces jeux, vous pourrez profiter pleinement de l'univers de Fata Morgana tout en aidant les développeurs à continuer à créer des jeux de qualité pour les joueurs du monde entier.
 PS: Le patch français du jeu "ファタモルガーナの館 Remastered" disponible sur animategames.jp restera toujours disponible en version 1.1 et inférieure mais ne bénéficiera plus de mise à jour de notre part.
 
+Site web: https://fata-trad.github.io/
+Discord: https://discord.com/SjXXuyqFsZ
 ## Installation PC
 1.Téléchargez la dernière [version](https://github.com/MysticHaze157/fata-morgana-remastered-french/releases).
 
