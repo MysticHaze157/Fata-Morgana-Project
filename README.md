@@ -8,6 +8,7 @@ This patch is available on PC and Android thanks to the use of assets and scenes
 Please purchase The House in Fata Morgana: Dreams of the Revenant Edition as well as the game Seventh Lair on Steam to support Novectacle.
 
 By buying these games, you can fully immerse yourself in the Fata Morgana universe while helping the developers continue to create high-quality games for players worldwide.
+
 P.S.: The French patch for the game "ファタモルガーナの館 Remastered" available on animategames.jp will always be accessible in version 1.1 and lower but will no longer receive updates from us.
 
 Website: https://fata-trad.github.io/
