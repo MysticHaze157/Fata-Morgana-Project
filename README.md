@@ -1,23 +1,24 @@
-# The House In Fata Morgana Remastered-FR
+# The House In Fata Morgana Dreams Of The Revenant for PC and Android
 ![alt text](https://raw.githubusercontent.com/MysticHaze157/fata-morgana-remastered-french/main/Accueil.jpg)
 
-Le patch français de The House in Fata Morgana Dreams of the Revenant Edition permet aux joueurs de profiter d'une expérience de jeu entièrement traduite en français.
+"Dreams of the Revenant" is a remastered version of the visual novel "The House in Fata Morgana."
+This version also adds new content to the original game, including new stories, new characters, and additional scenes.
 
-Ce patch est également disponible sur PC et Android grace à l'utilisation d'assets et des scènes de Dreams of the Revenant sur Switch pour les intégrer au jeu Seventh Lair.
-S'il vous plaît, achetez The House in Fata Morgana Dreams of the Revenant Edition ainsi que le jeu Seventh Lair sur Steam pour soutenir Novectacle.
+This patch is also available on PC and Android thanks to the use of assets and scenes from Dreams of the Revenant on Switch, integrated into the game Seventh Lair.
+Please purchase The House in Fata Morgana: Dreams of the Revenant Edition as well as the game Seventh Lair on Steam to support Novectacle.
 
-En achetant ces jeux, vous pourrez profiter pleinement de l'univers de Fata Morgana tout en aidant les développeurs à continuer à créer des jeux de qualité pour les joueurs du monde entier.
-PS: Le patch français du jeu "ファタモルガーナの館 Remastered" disponible sur animategames.jp restera toujours disponible en version 1.1 et inférieure mais ne bénéficiera plus de mise à jour de notre part.
+By buying these games, you can fully immerse yourself in the Fata Morgana universe while helping the developers continue to create high-quality games for players worldwide.
+P.S.: The French patch for the game "ファタモルガーナの館 Remastered" available on animategames.jp will always be accessible in version 1.1 and lower but will no longer receive updates from us.
 
-Site Web: https://fata-trad.github.io/
+Website: https://fata-trad.github.io/
 
 Discord: https://discord.gg/SjXXuyqFsZ
 
-## Installation PC
-1.Téléchargez la dernière [version](https://github.com/MysticHaze157/fata-morgana-remastered-french/releases).
+## PC Installation
+1. Download the latest [version](https://github.com/MysticHaze157/fata-morgana-remastered-french/releases).
 
-2. Lancez le fichier exécutable et sélectionnez le répertoire du jeu Seventh Lair pour installer le patch. .
+2. Run the executable file and select the Seventh Lair game directory to install the patch.
 
 ## Credits
 
-Traduction française : @Samia et Robin Margogne
+French translation: Samia and Robin Margogne
