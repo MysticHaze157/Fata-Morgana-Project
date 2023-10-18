@@ -4,7 +4,7 @@
 "Dreams of the Revenant" is a remastered version of the visual novel "The House in Fata Morgana."
 This version also adds new content to the original game, including new stories, new characters, and additional scenes.
 
-This patch is also available on PC and Android thanks to the use of assets and scenes from Dreams of the Revenant on Switch, integrated into the game Seventh Lair.
+This patch is available on PC and Android thanks to the use of assets and scenes from Dreams of the Revenant on Switch, integrated into the game Seventh Lair.
 Please purchase The House in Fata Morgana: Dreams of the Revenant Edition as well as the game Seventh Lair on Steam to support Novectacle.
 
 By buying these games, you can fully immerse yourself in the Fata Morgana universe while helping the developers continue to create high-quality games for players worldwide.
