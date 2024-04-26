@@ -1,5 +1,4 @@
 # The House In Fata Morgana Dreams Of The Revenant for PC and Android
-![alt text](https://raw.githubusercontent.com/MysticHaze157/fata-morgana-remastered-french/main/Accueil.jpg)
 
 "Dreams of the Revenant" is a remastered version of the visual novel "The House in Fata Morgana."
 This version also adds new content to the original game, including new stories, new characters, and additional scenes.
