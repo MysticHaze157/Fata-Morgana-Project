@@ -5,6 +5,7 @@ You can install the patch only if you own one of the following games:
 Seventh Lair, The House In Fata Morgana and Requiem For Innocence.
 
 Website: https://www.fataremaid.com/
+
 Discord: https://discord.gg/n9gJr5fBNy
 
 Discord Fr: https://discord.gg/SjXXuyqFsZ
