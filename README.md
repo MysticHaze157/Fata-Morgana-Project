@@ -1,22 +1,35 @@
-# The House In Fata Morgana Dreams Of The Revenant for PC and Android
+# The House In Fata Morgana: Remaid of Dreams for PC and Android
 
-"Dreams of the Revenant" is a remastered version of the visual novel "The House in Fata Morgana."
-This version also adds new content to the original game, including new stories, new characters, and additional scenes.
+Remaid of Dreams is a project focused on refining the user experience of the game The House in Fata Morgana: Dreams of the Revenants Edition (PS4, PSVita and Switch exclusive), and adding numerous new features and bonuses on previously unsupported platforms, for a more comprehensive package of the entire The House in Fata Morgana saga.
+You can install the patch only if you own one of the following games:
+Seventh Lair, The House In Fata Morgana and Requiem For Innocence.
 
-This patch is available on PC and Android thanks to the use of assets and scenes from Dreams of the Revenant on Switch, integrated into the game Seventh Lair.
-Please purchase The House in Fata Morgana: Dreams of the Revenant Edition as well as the game Seventh Lair on Steam to support Novectacle.
+Website: https://www.fataremaid.com/
+Discord: https://discord.gg/n9gJr5fBNy
 
-By buying these games, you can fully immerse yourself in the Fata Morgana universe while helping the developers continue to create high-quality games for players worldwide.
-
-Website: https://fata-trad.github.io/
-
-Discord: https://discord.gg/SjXXuyqFsZ
+Discord Fr: https://discord.gg/SjXXuyqFsZ
 
 ## PC Installation
-1. Download the latest [version](https://github.com/MysticHaze157/fata-morgana-remastered-french/releases).
+1. Download the latest [version](https://github.com/MysticHaze157/Fata-Morgana-Project/releases).
 
 2. Run the executable file and select the Seventh Lair game directory to install the patch.
 
 ## Credits
 
-French translation: Samia and Robin Margogne
+### Project Manager
+MysticHaze157, MetraFox
+
+### Translation
+#### English
+MangaGamer, Novectacle, Dobcool 
+#### French
+Samia Margogne, Robin Margogne, Basile Gaspar, Lionel Laugier
+#### Italian
+Neve, Banz99
+
+### Graphic Design
+Banz99, MysticHaze157, Dobcool
+
+### Programming
+MysticHaze157, MetraFox (Android)
+
