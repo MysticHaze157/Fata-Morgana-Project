@@ -1,4 +1,4 @@
-# The House In Fata Morgana: Remaid of Dreams for PC and Android
+# The House in Fata Morgana: Remaid of Dreams for PC and Android
 
 Remaid of Dreams is a project focused on refining the user experience of the game The House in Fata Morgana: Dreams of the Revenants Edition (PS4, PSVita and Switch exclusive), and adding numerous new features and bonuses on previously unsupported platforms, for a more comprehensive package of the entire The House in Fata Morgana saga.
 You can install the patch only if you own one of the following games:
@@ -8,7 +8,7 @@ Website: https://www.fataremaid.com/
 
 Discord: https://discord.gg/n9gJr5fBNy
 
-Discord Fr: https://discord.gg/SjXXuyqFsZ
+Discord FR: https://discord.gg/SjXXuyqFsZ
 
 ## PC Installation
 1. Download the latest [version](https://github.com/MysticHaze157/Fata-Morgana-Project/releases).
